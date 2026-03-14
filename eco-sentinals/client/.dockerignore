@@ -1,0 +1,16 @@
+# .dockerignore for frontend
+node_modules
+npm-debug.log
+dist
+.env.local
+.env.*.local
+.git
+.gitignore
+.vscode
+.DS_Store
+__pycache__
+*.pyc
+coverage
+.eslintcache
+.env
+venv
